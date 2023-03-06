@@ -1,5 +1,5 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-jade-ten.vercel.app/api?username=KenichiQaz&count_private=true&show_icons=true&theme=tokyonight" /> 
+<p align="center"><a href="https://github.com/KenichiQaz/Github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-main-kenichiqaz.vercel.app/api?username=KenichiQaz&count_private=true&show_icons=true&theme=tokyonight" /> 
   
 </a></p>
 
