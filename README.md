@@ -1,6 +1,6 @@
 <h2>Coding activity</h2>
 
-<p><a href="https://wakatime.com"><img src="https://wakatime.com/share/@KenichiQ/f43f96bc-3b4c-4f18-a97f-b3bda9290469.png" /></a></p>
+<p><a href="https://wakatime.com"><img src="https://wakatime.com/share/@KenichiQ/2b23d59b-db71-42f7-9d42-f47b1af23832.png" /></a></p>
 <br>
 
 ### 👷 What I'm currently working on
