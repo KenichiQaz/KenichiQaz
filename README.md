@@ -1,6 +1,4 @@
-<p align="center"><a href="https://github.com/KenichiQaz/Github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-main-kenichiqaz.vercel.app/api?username=KenichiQaz&count_private=true&show_icons=true&theme=tokyonight" /> 
-  
+<figure><embed src="https://wakatime.com/share/@KenichiQ/ac9db224-eebd-4cf3-80de-a96f8eb5cdf1.svg"></embed></figure>
 </a></p>
 
 ### 👷 What I'm currently working on
