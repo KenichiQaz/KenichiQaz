@@ -1,3 +1,8 @@
+<h1>My name is Stefan Enslin and I am a teacher and student</h1>
+---
+[![wakatime](https://wakatime.com/badge/user/57568bf0-918c-45db-8d46-f9c29cc954de.svg)](https://wakatime.com/@57568bf0-918c-45db-8d46-f9c29cc954de)
+---
+
 <h2>Coding activity</h2>
 
 <p><a href="https://wakatime.com"><img src="https://wakatime.com/share/@KenichiQ/2b23d59b-db71-42f7-9d42-f47b1af23832.png" /></a></p>
