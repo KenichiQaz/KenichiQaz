@@ -18,7 +18,7 @@
 ### 🌱 My latest projects
 <p>
     <ul>
-        <li><a href="https://github.com/KenichiQaz/AI_Corp">Hierarchical Autonomous Executive Administration</a></li>
+        <li><a href="https://github.com/KenichiQaz/AI_Corp">Hierarchical Autonomous Executive Administration</a></li><br>
         <li><a href="https://github.com/KenichiQaz/ReviewResponder">Google review responder: This project was made obsolete and only retrieves the reviews now</a></li><br>
         <li><a href="https://github.com/KenichiQaz/Video_Edit_Automation">Project to append the intro and outro sections to a video file from the commandline</a></li><br>
         <li><a href="https://github.com/KenichiQaz/Streamlit_Img_Diff">Streamlit_Img_Diff is a project to detect the differences between to identical looking files.</a></li><br>
